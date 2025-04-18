@@ -17,7 +17,6 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.server.ResponseStatusException;
 
 import com.project.professor.allocation.entity.Course;
-import com.project.professor.allocation.entity.Professor;
 import com.project.professor.allocation.service.CourseService;
 
 import io.swagger.v3.oas.annotations.Operation;

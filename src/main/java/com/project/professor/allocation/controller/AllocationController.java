@@ -16,7 +16,6 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.server.ResponseStatusException;
 
 import com.project.professor.allocation.entity.Allocation;
-import com.project.professor.allocation.repository.AllocationRepository;
 import com.project.professor.allocation.service.AllocationService;
 
 import io.swagger.v3.oas.annotations.Operation;

@@ -1,0 +1,2 @@
+Só se ligar de remover os imports não utilizados
+Não versionar logs
